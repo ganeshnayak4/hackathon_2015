@@ -6,3 +6,6 @@ Android COntacts Example:
 
 SunShine App: Android Concepts Practically:
    https://www.udacity.com/course/viewer#!/c-ud853/l-1395568821/m-1601259306
+
+Eclipse With Android /Svn / Maven 
+	https://www.dropbox.com/sh/rg7dz5xb2gf3tn4/AAAGPcskUwuIP2BRlswsuehKa?dl=0
