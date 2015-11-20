@@ -5,6 +5,7 @@ Android COntacts Example:
 	http://examples.javacodegeeks.com/android/core/provider/android-contacts-example/
 
 SunShine App: Android Concepts Practically:
+	https://www.udacity.com/course/ud853
    https://www.udacity.com/course/viewer#!/c-ud853/l-1395568821/m-1601259306
 
 Eclipse With Android /Svn / Maven 
