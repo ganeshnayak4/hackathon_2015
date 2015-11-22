@@ -1,3 +1,9 @@
+Contacts Picker
+	http://developer.android.com/training/contacts-provider/retrieve-names.html
+Icons:
+	https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=text&foreground.space.trim=1&foreground.space.pad=0&foreground.text.text=&foreground.text.font=&foreColor=607d8b%2C0&crop=0&backgroundShape=square&backColor=ffffff%2C100&effects=none
+	https://www.google.com/design/icons/
+
 Can we locate a user via user's phone number in Android?
 	http://stackoverflow.com/questions/21372685/can-we-locate-a-user-via-users-phone-number-in-android
 
